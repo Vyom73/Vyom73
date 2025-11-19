@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Vyom 👋
 
-<!--
-**Vyom73/Vyom73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 BTech CSE Student | Linux & Programming Learner  
+### 🔹 Passionate about Tech, Coding & Building Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Academic Repositories  
+Here are my organised college assignments:
+
+- **Linux Lab Assignments** → (link)
+
+---
+
+## 🛠 Skills I'm Learning
+- Linux Commands & Shell Scripting  
+- C Programming  
+- GitHub  
+---
+
+## 📈 Currently Working On
+- Organising all my academic assignments  
+- Improving coding skills  
+- Learning Linux 
+
+---
+
+## 📬 Connect With Me
+- Email: vyom3369@gmail.com
+- GitHub: https://github.com/Vyom73
